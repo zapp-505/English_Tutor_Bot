@@ -1,5 +1,6 @@
 # BasicGrammarcorrectionBot
-This bot is set with a default system role to behave like an english teacher and gramatically correct the user input sentences and give improvement tips
-Uses
+RAG based chatbot helping you redifine your sentences and english language usage with help of information from Grammar Textbooks
+-Google Gen-AI Embeddings
+-Langchain
 -Groq API
 -Streamlit for webapp interface
